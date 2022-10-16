@@ -1,6 +1,6 @@
 # Community Code of Conduct
 
-In the Open Data Product Initiative community, participants from all over the world come together to create Free Software for a free internet. This is made possible by the support, hard work and enthusiasm of thousands of people, including those who create and use Open Data Product Initiative standards.
+In the Open Data Product Initiative community, participants from all over the world come together to create Free Standards for a free internet. This is made possible by the support, hard work and enthusiasm of thousands of people, including those who create and use Open Data Product Initiative standards.
 
 This document offers some guidance to ensure Open Data Product Initiative participants can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other.
 
