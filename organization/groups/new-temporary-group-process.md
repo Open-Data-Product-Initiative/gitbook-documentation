@@ -1,2 +1,0 @@
-# New temporary group process
-

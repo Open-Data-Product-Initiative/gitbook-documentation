@@ -16,6 +16,6 @@
     * [Permanent groups](organization/groups/permanent-groups.md)
       * [Strategy Group](organization/groups/permanent-groups/strategy-group.md)
       * [Technical Steering Committee](organization/groups/permanent-groups/technical-steering-committee.md)
-    * [Temporary groups](organization/groups/temporary-groups.md)
-    * [New temporary group process](organization/groups/new-temporary-group-process.md)
+    * [Temporary groups](organization/groups/temporary-groups/README.md)
+      * [New temporary group process](organization/groups/temporary-groups/new-temporary-group-process.md)
   * [Members](organization/members.md)
