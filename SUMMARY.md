@@ -5,6 +5,7 @@
 * [Specification](specification/README.md)
   * [Versions](specification/versions/README.md)
     * [Versioning practices](specification/versions/versioning-practices.md)
+    * [Breaking changes](specification/versions/breaking-changes.md)
   * [Improvements](specification/improvements/README.md)
     * [New improvement process](specification/improvements/new-improvement-process.md)
 * [Organization](organization/README.md)
