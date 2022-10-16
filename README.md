@@ -1,6 +1,6 @@
 # Introduction
 
-Adopting a governance model and drawing up a project governance document as early as possible are critical for the creation of a successful open development project. Nothing should prevent the project
+Adopting a governance model and drawing up a project governance document as early as possible are critical for the creation of a successful open development project. Nothing should prevent the project initiators from documenting their model at project inception.
 
 However, there is no need for the first version of the project’s governance model to be fully detailed; a framework setting out the starting position is sufficient. Nor does the governance document need to account for every possible future scenario. The idea is to start with a simple and manageable model that will send clear signals to potential contributors. A successful open development project needs to be welcoming to those who are likely to contribute in a way that improves project sustainability, while preventing those with incompatible needs from wasting their own time and that of the project team in fruitless engagements with the project.
 
