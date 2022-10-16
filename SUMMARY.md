@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Community Code of Conduct](community-code-of-conduct.md)
 * [Specification](specification/README.md)
   * [Versions](specification/versions/README.md)
     * [Versioning practices](specification/versions/versioning-practices.md)
@@ -8,7 +9,7 @@
     * [New improvement process](specification/improvements/new-improvement-process.md)
 * [Organization](organization/README.md)
   * [Groups](organization/groups/README.md)
-    * [Permanent groups](organization/groups/permanent-groups/README.md)
+    * [Permanent groups](organization/groups/permanent-groups.md)
       * [Strategy Group](organization/groups/permanent-groups/strategy-group.md)
       * [Technical Steering Committee](organization/groups/permanent-groups/technical-steering-committee.md)
     * [Temporary groups](organization/groups/temporary-groups.md)
