@@ -18,6 +18,5 @@ The minor version must be incremented if:
 
 * New, backward-compatible functionality is introduced to the public API.
 * Any public API functionality is marked as deprecated
-*
 
 The patch version must be reset to `0` when minor version is incremented
