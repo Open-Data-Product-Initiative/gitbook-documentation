@@ -1,8 +1,8 @@
 # Versions
 
-### Current production version
+### Current production version is 1.0
 
-Current production version can be found from [https://opendataproducts.org](https://opendataproducts.org)
+Current production version is 1.0 and that can be found from [https://opendataproducts.org](https://opendataproducts.org)
 
 
 
