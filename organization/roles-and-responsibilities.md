@@ -8,7 +8,7 @@
 
 **Co-chair**
 
-****
+
 
 **Contributor**
 
@@ -20,7 +20,7 @@
 
 **Member organization**
 
-****
+
 
 **Strategy Group**
 
