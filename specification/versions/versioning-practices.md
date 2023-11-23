@@ -1,6 +1,6 @@
 # Versioning practices
 
-### Semver is used (DRAFT, not official yet)
+### Semver is used
 
 ODPI uses [SemVer](https://semver.org/)—semantic versioning—on our components. The three types of versions are:
 
