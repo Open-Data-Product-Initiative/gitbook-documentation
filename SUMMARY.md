@@ -8,6 +8,7 @@
   * [Versions](specification/versions/README.md)
     * [Versioning practices](specification/versions/versioning-practices.md)
     * [Breaking changes](specification/versions/breaking-changes.md)
+  * [Release process](specification/release-process.md)
 * [Organization](organization/README.md)
   * [Decision making process](organization/decision-making-process/README.md)
     * [New member process](organization/decision-making-process/new-member-process.md)
