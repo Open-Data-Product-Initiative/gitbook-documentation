@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Governance of Open Data Product Specification](README.md)
 * [Community Code of Conduct](community-code-of-conduct.md)
 * [Specification](specification/README.md)
   * [Contribution process](specification/contribution-process/README.md)
