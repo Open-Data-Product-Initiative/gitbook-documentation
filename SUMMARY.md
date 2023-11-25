@@ -20,3 +20,4 @@
     * [Temporary groups](organization/groups/temporary-groups/README.md)
       * [New temporary group process](organization/groups/temporary-groups/new-temporary-group-process.md)
   * [Members](organization/members.md)
+* [Contributions](contributions.md)
