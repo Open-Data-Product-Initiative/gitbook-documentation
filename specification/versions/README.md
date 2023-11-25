@@ -1,11 +1,9 @@
 # Versions
 
-### Current production version is 1.0
-
-Current production version is 1.0 and that can be found from [https://opendataproducts.org](https://opendataproducts.org)
+All the versions be found from [https://opendataproducts.org](https://opendataproducts.org)
 
 
 
-### Next version
+### Development version
 
-The next version which is now under development is 1.1. and that can be accessed from [https://open-data-product-initiative.github.io/open-data-product-spec-1.1dev/](https://open-data-product-initiative.github.io/open-data-product-spec-1.1dev/)
+The development version is always [https://github.com/Open-Data-Product-Initiative/open-data-product-spec-dev](https://github.com/Open-Data-Product-Initiative/open-data-product-spec-dev)
