@@ -6,8 +6,6 @@ description: >-
 
 # Contributor Agreement
 
-
-
 ### Why do we need it?
 
 ODPS requires Contributor Agreement (CAs) from contributors for several key reasons:
@@ -21,7 +19,11 @@ ODPS requires Contributor Agreement (CAs) from contributors for several key reas
 
 In summary, Contributor Agreements are important tools for managing the legal and intellectual property aspects of open source projects, ensuring that they can continue to thrive and evolve while minimizing legal risks and maintaining the trust of the community.
 
+### CA referenced in Github issue templates
 
+In the process of raising an issue, notification of CA acceptance is added and should be preserved in all cases.&#x20;
+
+<figure><img src="../.gitbook/assets/issue.png" alt=""><figcaption></figcaption></figure>
 
 ### Content of CA
 
