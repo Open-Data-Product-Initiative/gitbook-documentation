@@ -26,3 +26,13 @@ After SG's review, TSC starts executing the accepted and aligned release plan. T
 4. Finally, RC is published as a new version of ODPS.&#x20;
 5. After this new development version is derived from the release and new development version is opened for pull requests.&#x20;
 6. Opendataproducts.org website is updated regarding the versions part to match the current situation and versions.&#x20;
+
+## Accepting new Technical Steering Group members
+
+Anyone can participate Technical Steering Group meetings as an observer. Observers have no right to participate in decision-making but are allowed to observe and comment the meeting items when Chairman invites all to express themselves.&#x20;
+
+TSC Chairman can invite full members  to the committee. New member is accepted as long as none of the existing members have justified reasons not accept new member. Full members have 1 vote and can suggest items to the meeting agenda (observers do not have this privilege)
+
+## Accepting new Strategy Group members
+
+Also Strategy Group meetings are open for anyone to participate as observers.&#x20;
