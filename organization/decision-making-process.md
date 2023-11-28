@@ -4,15 +4,17 @@ description: Various decision-making processes
 
 # Decision-making processes
 
-
-
-## New release
+## New Release
 
 Technical Steering Committee (TSC) decides when a new release is needed since they lead the specification development and have the best knowledge of changes and maturity of the development version.&#x20;
 
-TSC creates a proposal for a new release for the Strategy Group (SG) to review. In the proposal, TSC lists the changes and expected added value for consumers. The proposal also contains information is this minor or major release. The proposal contains also planned roadmap to release with timetable.  Patches can be pushed to the production version without SG review.&#x20;
+### Alignment phase
 
-The release proposal is discussed at the SG meeting and possible comments will be provided to TSC to consider. SG reviews the release proposal to align it with the strategy, which SG is responsible for. SG can stop the release process but the reasons must be very solid and most commonly additional discussion is needed between TSC and SG. We seek always alignment, not power struggles. &#x20;
+1. TSC creates a proposal for a new release for the Strategy Group (SG) to review. In the proposal, TSC lists the changes and expected added value for consumers. The proposal also contains information is this minor or major release. The proposal contains also planned roadmap to release with timetable.  Patches can be pushed to the production version without SG review.&#x20;
+2. The release proposal is discussed at the SG meeting and possible comments will be provided to TSC to consider. SG reviews the release proposal to align it with the strategy, which SG is responsible for.&#x20;
+3. SG can stop the release process but the reasons must be very solid and most commonly additional discussion is needed between TSC and SG. We seek always alignment, not power struggles. &#x20;
+
+### Release phase
 
 After SG's review, TSC starts executing the accepted and aligned release plan. The default minimal process contains following steps:
 
