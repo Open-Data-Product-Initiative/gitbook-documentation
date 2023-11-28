@@ -11,7 +11,7 @@
     * [Versioning practices](specification/versions/versioning-practices.md)
     * [Breaking changes](specification/versions/breaking-changes.md)
 * [Organization](organization/README.md)
-  * [Decision-making processes](organization/decision-making-process.md)
+  * [Decision-making processes](organization/decision-making-process/README.md)
   * [Roles and responsibilities](organization/roles-and-responsibilities.md)
   * [Groups](organization/groups/README.md)
     * [Permanent groups](organization/groups/permanent-groups.md)
@@ -20,3 +20,4 @@
     * [Temporary groups](organization/groups/temporary-groups/README.md)
       * [New temporary group process](organization/groups/temporary-groups/new-temporary-group-process.md)
   * [Members](organization/members.md)
+  * [New members acceptance](organization/new-members-acceptance.md)
