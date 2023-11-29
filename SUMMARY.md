@@ -5,7 +5,6 @@
 * [Contributions](contributions/README.md)
   * [Non-breaking changes](contributions/non-breaking-changes.md)
   * [Contributor Agreement](contributions/contributor-agreement.md)
-* [Release process](release-process.md)
 * [Decision-making processes](decision-making-process.md)
 * [Specification](specification/README.md)
   * [Versions](specification/versions/README.md)

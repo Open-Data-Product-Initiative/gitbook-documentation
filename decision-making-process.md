@@ -8,6 +8,8 @@ description: Various decision-making processes
 
 Technical Steering Committee (TSC) decides when a new release is needed since they lead the specification development and have the best knowledge of changes and maturity of the development version.&#x20;
 
+The Technical Steering Committee is responsible for release quality, while the Strategy Group is responsible for the long-term roadmap and making sure the release fits in the plan.&#x20;
+
 ### Alignment phase
 
 1. TSC creates a proposal for a new release for the Strategy Group (SG) to review. In the proposal, TSC lists the changes and expected added value for consumers. The proposal also contains information is this minor or major release. The proposal contains also planned roadmap to release with timetable.  Patches can be pushed to the production version without SG review.&#x20;

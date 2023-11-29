@@ -24,4 +24,4 @@ We welcome all contributions, but you need to follow the given process and guide
 
 ## Controlled releases&#x20;
 
-&#x20;
+&#x20;Our release model and related processes are described in the [Decision-making processes section](decision-making-process.md)
