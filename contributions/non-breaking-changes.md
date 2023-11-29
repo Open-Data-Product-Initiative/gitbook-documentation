@@ -1,6 +1,6 @@
 # Non-breaking changes
 
-To understand what is non-breaking change and what is not, take a look at guidance related to breaking changes before proceeding, [breaking-changes.md](../specification/versions/breaking-changes.md "mention").&#x20;
+To understand what is non-breaking change and what is not, take a look at guidance related to breaking changes before proceeding, [breaking-changes.md](../specification/breaking-changes.md "mention").&#x20;
 
 * **If you find a bug, make an issue report first to the correct repository.** Each version has own respository, for example the development version is always in  [https://github.com/Open-Data-Product-Initiative/open-data-product-spec-dev](https://github.com/Open-Data-Product-Initiative/open-data-product-spec-dev) Likewise if you wish to add something to the standard, make a feature request first, do not just create pull request.&#x20;
 * **In the bug report or feature request clearly state what is the issue or what is the addition you wish to contribute.** State the business value of addition and also your idea how to make the fix or feature you wish to contribute. Make sure you respond to all questions and take into account alternative ideas as well.&#x20;

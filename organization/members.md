@@ -1,3 +1,0 @@
-# Members
-
-From Github
