@@ -15,3 +15,4 @@
   * [Technical Steering Committee](organization/groups/permanent-groups/technical-steering-committee.md)
   * [Groups](organization/groups/README.md)
   * [Joining as organization](organization/joining-as-organization.md)
+  * [Joining as individual](organization/joining-as-individual.md)
