@@ -16,3 +16,4 @@
   * [Joining as organization](organization/joining-as-organization.md)
   * [Joining as individual](organization/joining-as-individual.md)
 * [Design](design.md)
+* [Finance](finance.md)
