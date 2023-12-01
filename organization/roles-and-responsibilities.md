@@ -8,6 +8,10 @@ The chair is leading the Group. The chair is responsible for announcing the meet
 
 Groups can have also co-chair, who acts on behalf of the chair in case of the chairpersonabsence of chair person.&#x20;
 
+**Observer**
+
+Observer is an individual person who can participate activities such as meetings, but has no voting rights. Observer does not have rights to raise issues to the meeting agenda. However, they have a voice in meetings to express opinions and viewpoints.&#x20;
+
 **Contributor**
 
 Contributor is anyone:
