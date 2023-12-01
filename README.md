@@ -1,8 +1,8 @@
 ---
-description: To be accepted by Strategy Group and Technical Steering Committee
+description: How Open Data Product Specification development is governed
 ---
 
-# Governance of Open Data Product Specification (DRAFT)
+# Governance of Open Data Product Specification
 
 ## Why do we need governance?
 

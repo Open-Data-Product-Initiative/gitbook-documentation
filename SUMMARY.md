@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Governance of Open Data Product Specification (DRAFT)](README.md)
+* [Governance of Open Data Product Specification](README.md)
 * [Community Code of Conduct](community-code-of-conduct.md)
 * [Contributions](contributions/README.md)
   * [Contributing changes](contributions/contributing-changes.md)
