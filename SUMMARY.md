@@ -15,3 +15,4 @@
   * [Technical Steering Committee](organization/groups/permanent-groups/technical-steering-committee.md)
   * [Joining as organization](organization/joining-as-organization.md)
   * [Joining as individual](organization/joining-as-individual.md)
+* [Design](design.md)
