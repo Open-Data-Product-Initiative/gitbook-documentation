@@ -1,30 +1,28 @@
 # Roles and responsibilities
 
-
-
 **Chair**
 
-
+The chair is leading the Group. The chair is responsible for announcing the meetings in the Open Data Product Initiative project under Open Initiative.&#x20;
 
 **Co-chair**
 
-
+Groups can have also co-chair, who acts on behalf of the chair in case of the chairpersonabsence of chair person.&#x20;
 
 **Contributor**
 
+Contributor is anyone:
 
+* raising issues to the specification
+* making pull request to the specification or Governance model
 
 **Member**
 
+Member refers to individuals in the groups of Open Data Product Initiative. The Groups are defined in the Governance model (this document)
 
+**Strategy Group (SG)**
 
-**Member organization**
+Strategy Group is a permanent part of the Governance. It defines the strategy for ODPS, oversees the releases, maintains the Governance model, can invite individuals to Strategy Group.&#x20;
 
+**Technical Steering Committee (TSC)**
 
-
-**Strategy Group**
-
-
-
-**Technical Streering Committee**
-
+TSC is responsible for the specification development. It controls the lifecycle of the specification including releases.&#x20;
