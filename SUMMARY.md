@@ -9,6 +9,7 @@
 * [Specification](specification/README.md)
   * [Versioning practices](specification/versions/versioning-practices.md)
   * [Breaking changes](specification/versions/breaking-changes.md)
+  * [Releases](specification/releases.md)
 * [Organization](organization/README.md)
   * [Roles and responsibilities](organization/roles-and-responsibilities.md)
   * [Strategy Group](organization/groups/permanent-groups/strategy-group.md)
