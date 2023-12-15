@@ -6,7 +6,7 @@ description: >-
 
 # Releases
 
-
+Release process described seprately in Decision-making processes [#new-release](../decision-making-process.md#new-release "mention")&#x20;
 
 ## The next planned release
 
