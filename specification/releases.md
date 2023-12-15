@@ -1,7 +1,7 @@
 ---
 description: >-
   This page contains information about past and coming releases. Order is
-  reversed, the oldest is at the bottom
+  reversed, the oldest is at the bottom. Release process described here.
 ---
 
 # Releases
