@@ -22,5 +22,5 @@ This group is by invitation only. Joining requires NDA to enable discussions wit
 
 Each member company can have one person in the group. Member company logos are listed as partners in specification main site opendataproducts.org&#x20;
 
-The Strategy Group Chair and Technical Steering Committee Chair are allowed to participate in group activities but do not possess any rights regarding decision-making, voting, or anything related. They participate as observers but are allowed to express opinions upon request from group members.&#x20;
+The Strategy Group Chair and Technical Steering Committee Chair are allowed to participate in group activities but do not possess any rights regarding decision-making, voting, or anything related. This enables a smoother information flow between the business needs and the standardization work. They participate as observers but are allowed to express opinions upon request from group members.&#x20;
 
