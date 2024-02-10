@@ -6,7 +6,7 @@ description: >-
 
 # Business Advisory Group
 
-**This group is our arm in the industry to make sure we focus on the value-creating features in the standardization.**
+> This group is our arm in the industry to make sure we focus on the value-creating features in the standardization.
 
 ## Purpose
 
