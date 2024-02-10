@@ -13,6 +13,7 @@
 * [Organization](organization/README.md)
   * [Roles and responsibilities](organization/roles-and-responsibilities.md)
   * [Strategy Group](organization/groups/permanent-groups/strategy-group.md)
+  * [Business Advisory Group](organization/business-advisory-group.md)
   * [Technical Steering Committee](organization/groups/permanent-groups/technical-steering-committee.md)
   * [Joining as organization](organization/joining-as-organization.md)
   * [Joining as individual](organization/joining-as-individual.md)
