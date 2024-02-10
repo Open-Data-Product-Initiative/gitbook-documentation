@@ -16,7 +16,11 @@ This group does not make decisions on what is included in the specification, nor
 
 ## Joining
 
-This group is by invitation only. Joining requires NDA to enable discussions with practical matters of business. Inquiries to join, contact Strategy Group Chair. Contact information can be found from the main site opendataproducts.org.
+This group is by invitation only. Joining requires NDA to enable discussions with practical matters of business. For inquiries to join, contact the Strategy Group Chair. Contact information can be found on the main site opendataproducts.org.
 
-Each member company can have one member. Member company logos are listed as partners in specification main site opendataproducts.org&#x20;
+## Members
+
+Each member company can have one person in the group. Member company logos are listed as partners in specification main site opendataproducts.org&#x20;
+
+The Strategy Group Chair and Technical Steering Committee Chair are allowed to participate in group activities but do not possess any rights regarding decision-making, voting, or anything related. They participate as observers but are allowed to express opinions upon request from group members.&#x20;
 
